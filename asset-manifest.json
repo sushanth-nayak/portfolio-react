@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.bdfe92cd.css",
+    "main.js": "/portfolio-react/static/js/main.e71cd8db.js",
+    "static/media/bike-rental.png": "/portfolio-react/static/media/bike-rental.5a66c90bd7a3e5f74e46.png",
+    "static/media/car-rental.png": "/portfolio-react/static/media/car-rental.e6d86f86431e55f28571.png",
+    "static/media/portfolio.png": "/portfolio-react/static/media/portfolio.1ec4deca1f975ae66798.png",
+    "static/media/restaurant.png": "/portfolio-react/static/media/restaurant.9d638fbe5cf0235a0337.png",
+    "static/media/Educational.png": "/portfolio-react/static/media/Educational.dd346ad6bb2cbe92eeb5.png",
+    "static/media/Mssql.svg": "/portfolio-react/static/media/Mssql.1be61945af735f956ae7f8a901eae79d.svg",
+    "static/media/mongodb.svg": "/portfolio-react/static/media/mongodb.3f5563431bc89fbaefb9fb5772b9224c.svg",
+    "static/media/express.svg": "/portfolio-react/static/media/express.7faaa48c7763f7c7d07635ae37772ad0.svg",
+    "static/media/nextjs.svg": "/portfolio-react/static/media/nextjs.e4da8b8e66eaeb979cb2f192627df424.svg",
+    "static/media/react.svg": "/portfolio-react/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/node.svg": "/portfolio-react/static/media/node.615ffbea9529ca7047ed8a912bfd94b2.svg",
+    "static/media/html.svg": "/portfolio-react/static/media/html.02c11ebc3bf614b206106cbe9cba90fd.svg",
+    "static/media/bootstrap.svg": "/portfolio-react/static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/javascript.svg": "/portfolio-react/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/git.svg": "/portfolio-react/static/media/git.edd16ea0c2abbdab94134ca45d672605.svg",
+    "static/media/tailwind.svg": "/portfolio-react/static/media/tailwind.319cd2de1897d256a7ea121fc862155d.svg",
+    "static/media/css.svg": "/portfolio-react/static/media/css.541200b174db976480edcedb73d25268.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.bdfe92cd.css.map": "/portfolio-react/static/css/main.bdfe92cd.css.map",
+    "main.e71cd8db.js.map": "/portfolio-react/static/js/main.e71cd8db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdfe92cd.css",
+    "static/js/main.e71cd8db.js"
+  ]
+}
